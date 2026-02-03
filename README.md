@@ -1,3 +1,10 @@
+# use
+```
+cd vue3-test
+```
+```
+pnpm run dev
+```
 # vue3-test
 practice
 
