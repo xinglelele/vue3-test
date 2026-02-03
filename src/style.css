@@ -1,0 +1,17 @@
+html{
+  color:black;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+:root{
+  --primary-color: #42b983;
+  --bg-light: #e8f0eb;
+  --bg:#f5f5f5;
+  --nav-bg:#ffffff;
+  --nav-border-color:#eee;
+}
+body{
+  background-color: var(--bg);
+}
